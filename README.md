@@ -1,3 +1,5 @@
+### *Inspirado no tutorial 'Build and Deploy a Modern Landing Page Using Tailwind CSS' de Cristian Mihai.*
+
 # Interno landing page
 Exercício para criar uma landing page usando Tailwind CSS de um escritório de Arquitetura e Design.
 
